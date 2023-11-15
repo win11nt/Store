@@ -25,7 +25,7 @@
     <?php
     include 'header.php';
     ?>
-    <div class="container" id="content" style="margin-bottom: 42px;">
+    <div class="container" id="content" style="margin-bottom: 44px;">
         <div style="margin-bottom: 10px;" class="row">
             <div class="" align="justify">
                 <h3>WHO WE ARE</h3><br>

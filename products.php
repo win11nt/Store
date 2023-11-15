@@ -158,7 +158,7 @@ require("common.php");
                     <img src="img/19.jpg" alt="">
                     <div class="caption">
                         <h3>Titan Model #201</h3>
-                        <p>Price: 3000$ </p>
+                        <p>Price: 500$ </p>
                         <?php if (!isset($_SESSION['email'])) { ?>
                             <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                             <?php
@@ -183,7 +183,7 @@ require("common.php");
                     <img src="img/20.jpg" alt="">
                     <div class="caption">
                         <h3>HMT Milan</h3>
-                        <p>Price: 8000$ </p>
+                        <p>Price: 800$ </p>
                         <?php if (!isset($_SESSION['email'])) { ?>
                             <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                             <?php
@@ -232,10 +232,10 @@ require("common.php");
         <div class="row text-center" id="shirts">
             <div class="col-md-3 col-sm-6 home-feature">
                 <div class="thumbnail">
-                    <img src="img/22.jpg" alt="">
+                    <img src="img/54.jpg" style="width: 57.5%" alt="">
                     <div class="caption">
-                        <h3>H&W </h3>
-                        <p>Price: 800$ </p>
+                        <h3>Marshall Major IV</h3>
+                        <p>Price: 120$ </p>
                         <?php if (!isset($_SESSION['email'])) { ?>
                             <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                             <?php
@@ -257,10 +257,10 @@ require("common.php");
 
             <div class="col-md-3 col-sm-6 home-feature">
                 <div class="thumbnail">
-                    <img src="img/23.jpg" alt="">
+                    <img src="img/56.jpg" alt="" style="width: 46.29%;">
                     <div class="caption">
-                        <h3>Luis Phil</h3>
-                        <p>Price: 1000$</p>
+                        <h3>Sony WH-XB910N</h3>
+                        <p>Price: 250$</p>
                         <?php if (!isset($_SESSION['email'])) { ?>
                             <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                             <?php
@@ -282,10 +282,10 @@ require("common.php");
 
             <div class="col-md-3 col-sm-6 home-feature">
                 <div class="thumbnail">
-                    <img src="img/24.jpg" alt="">
+                    <img src="img/57.jpg" alt="" style="width: 45.6%;">
                     <div class="caption">
-                        <h3>John Zok</h3>
-                        <p>Price: 1500$</p>
+                        <h3>Jabra Evolve 80</h3>
+                        <p>Price: 259$</p>
                         <?php if (!isset($_SESSION['email'])) { ?>
                             <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                             <?php
@@ -307,10 +307,10 @@ require("common.php");
 
             <div class="col-md-3 col-sm-6 home-feature">
                 <div class="thumbnail">
-                    <img src="img/25.jpg" alt="">
+                    <img src="img/58.jpg" alt="" style="width: 67%;">
                     <div class="caption">
-                        <h3>Jhalsani</h3>
-                        <p>Price: 1300$</p>
+                        <h3>Beats Studio3</h3>
+                        <p>Price: 349$</p>
                         <?php if (!isset($_SESSION['email'])) { ?>
                             <p><a href="login.php" role="button" class="btn btn-primary btn-block">Buy Now</a></p>
                             <?php

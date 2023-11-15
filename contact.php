@@ -28,7 +28,7 @@ include 'header.php';
     <div class="col-lg" style="white-space: nowrap; display: flex;">
         <div style="margin-right: 30%;">
             <h1>COMPANY INFORMATION</h1><br>
-            <p id="p1">SaiGon, VietNam</p><br>
+            <p id="p1">HoChiMinh City, VietNam</p><br>
             <p id="p1">Phone : +84 0123456789</p><br>
             <p id="p1">Email : hello@gmail.com</p>
         </div>

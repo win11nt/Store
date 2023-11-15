@@ -22,7 +22,7 @@ mysqli_query($con, $query) or die($mysqli_error($con));
     <body>
         <?php include 'header.php'; ?>
 
-        <div class="container-fluid" id="content">
+        <div class="container-fluid" id="content" style="margin-bottom: 44px;">
             <div class="col-md-12">
                 <div class="col-lg-4 col-md-6 ">
                     <img src="img/thanks.png" style="float: left;">

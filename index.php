@@ -14,7 +14,6 @@ if (isset($_SESSION['email'])) {
     <title>Store</title>
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
     <script src="js/jquery.js"></script>
     <script src="js/bootstrap.min.js"></script>
 </head>
@@ -29,8 +28,9 @@ if (isset($_SESSION['email'])) {
             <div class="container">
                 <center>
                     <div id="banner_content">
-                        <h1>We sell everything.</h1>
-                        <p>Flat 40% OFF on premium brands </p>
+                        <h1>We sell cameras, watches and headphones.</h1>
+                        <p style="margin: 20px 100px 10px;">Capture life's moments, keep track of time, and listen to your favorite tunes with our
+                            selection of cameras, watches, and headphones.</p>
                         <br />
                         <a href="products.php" class="btn btn-danger btn-lg active">Shop Now</a>
                     </div>
@@ -66,10 +66,10 @@ if (isset($_SESSION['email'])) {
                 <div class="col-sm-4">
                     <a href="products.php#shirts">
                         <div class="thumbnail">
-                            <img src="img/13.jpg" alt="">
+                            <img src="img/53.jpg" alt="" style="max-height: 200px; width: auto;">
                             <div class="caption">
-                                <h3>Shirts</h3>
-                                <p>Our exquisite collection of shirts.</p>
+                                <h3>Headphones</h3>
+                                <p>Immerse yourself in sound.</p>
                             </div>
                         </div>
                     </a>
