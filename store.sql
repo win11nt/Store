@@ -16,13 +16,13 @@ INSERT INTO `items` (`id`, `name`, `price`) VALUES
 (3, 'Sony DSLR', 450),
 (4, 'Olympus DSLR', 500),
 (5, 'Titan Model #301', 1300),
-(6, 'Titan Model #201', 3000),
-(7, 'HMT Milan', 8000),
+(6, 'Titan Model #201', 500),
+(7, 'HMT Milan', 800),
 (8, 'Faber Luba #111', 1800),
-(9, 'H&W', 800),
-(10, 'Luis Phil', 1000),
-(11, 'John Zok', 1500),
-(12, 'Jhalsani', 1300);
+(9, 'Marshall Major IV', 120),
+(10, 'Sony WH-XB910N', 250),
+(11, 'Jabra Evolve 80', 259),
+(12, 'Beats Studio3', 349);
 
 
 CREATE TABLE `users` (
